@@ -2,13 +2,13 @@
 <!-- SUBTITLE: WRCT: a business manager's web -->
 
 # Introduction
-If you are the Business Manager, or a curious how the Business Manager's job works, or need insight into their role, this is the place to look for it. You can start off with [WhatDoesTheBMDo](business/WhatDoesTheBMDo).
+If you are the Business Manager, or a curious how the Business Manager's job works, or need insight into their role, this is the place to look for it. You can start off with [WhatDoesTheBMDo](business/what-does-the-bm-do).
 ### Contact Information
 Feel free to contact the Business Manager regarding all issues related to station finances, spending, reimbursement, budget management etc.
 * The current Business Manager is Matthew Xie. He can be reached via email at business@wrct.org.
 * You can also contact the current Executive Board of WRCT of which the Business Manager is a member of at exec-board@wrct.org.
 ## Philosophical Advice
-* [WhatDoesTheBMDo](WhatDoesTheBMDo): What is the BM's job? New Business Managers should begin here.
+* [WhatDoesTheBMDo](business/what-does-the-bm-do): What is the BM's job? New Business Managers should begin here.
 * BusinessJobAdvice: Advice on how to do the job and avoid the frustrations of handling such a large budget.
 ## Tasks and Howtos
 * NewBusinessManager: How to transition.
