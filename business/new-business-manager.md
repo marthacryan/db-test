@@ -13,7 +13,7 @@ You are now the Business Manager. You should coordinate with the current Busines
 	* If previous BM is still around, you can still use their TartanCard until you get your own
 	* Take Procurement Card Training class from CMU Human Resources to be able to use the TartanCard http://hr.web.cmu.edu/current/ld/seminars/
 * Coordinate with GM and anyone else in the station who has signing rights (possibly Chief Engineer) in regards to the process and system to be used so you can keep track of purchases
-* Get introduced to the friendly folks at StudentActivities
+* Get introduced to the friendly folks at [Student Activities](business/student-activities)
 * Go into the station while we on automation late at night, turn off automation, and play Warren G & Nate Dogg's "Regulate" (on 12" in the Hip Hop section)
 
 Now you are ready!
