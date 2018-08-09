@@ -9,7 +9,7 @@ Feel free to contact the Business Manager regarding all issues related to statio
 * You can also contact the current Executive Board of WRCT of which the Business Manager is a member of at exec-board@wrct.org.
 ## Philosophical Advice
 * [WhatDoesTheBMDo](business/what-does-the-bm-do): What is the BM's job? New Business Managers should begin here.
-* BusinessJobAdvice: Advice on how to do the job and avoid the frustrations of handling such a large budget.
+* [BusinessJobAdvice](business/business-job-advice): Advice on how to do the job and avoid the frustrations of handling such a large budget.
 ## Tasks and Howtos
 * NewBusinessManager: How to transition.
 * StudentActivities: How and when to make use of our friends upstairs.
