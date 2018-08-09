@@ -8,7 +8,7 @@ The WRCT wiki is a gigantic repository of information related to the station and
 
 # What's on here, anyway?
 We should probably begin with the list of wiki webs WRCT's wiki is split into. You can also see this list at the bottom of the sidebar on the left of every page. First, the list of webs directly related to WRCT:
-* Business: This web holds information related to the station's finances, and is maintained by the Business Manager.
+* [Business](http://128.2.98.47:5000/business): This web holds information related to the station's finances, and is maintained by the Business Manager.
 * Engineering: Here, technical information relating to WRCT's equipment is stored and maintained by the Chief Engineer and the Engineering staph.
 * GM: This web stores information relating to the executive management of WRCT, the General Manager, and the License Board. It is maintained by the General Manager.
 * ISM: Filled with information regarding the computing resources of the station, you'll find just about everything you wanted to know about ISM here (including that the acronym means Information Systems Management). It's maintained by the ISM Director and the ISM staph.
